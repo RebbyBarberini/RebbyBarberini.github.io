@@ -8,5 +8,11 @@ A lui si devono contributi fondamentali in numerosi campi della conoscenza come 
 economia, informatica, teoria dei giochi, fluidodinamica e in molti altri settori della matematica.</p>
 
 h1 {
-  border: 6px F0F8FF;
+  border: 6px °F0F8FF;
 }
+h2 {
+  border: 4px  #0099cc;
+}
+div {border-style: dotted;}
+body {background-color: coral;}
+
